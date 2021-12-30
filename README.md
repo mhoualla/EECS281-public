@@ -2,6 +2,7 @@
 The code of my EECS 281 — Data Structures &amp; Algorithms — course projects at the University of Michigan :)
 
 To recruiters: please email mhoualla@umich.edu for access to private repository 
+
 Fall 2021
 
 # Project 1
