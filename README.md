@@ -1,7 +1,7 @@
 # EECS281-public
 The code of my EECS 281 — Data Structures &amp; Algorithms — course projects at the University of Michigan :)
 
-To recruiters: please email mhoualla@umich.edu for access to private repository 
+To recruiters: please email mhoualla@umich.edu for access to the private repository 
 
 Fall 2021
 
